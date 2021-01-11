@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Share Photo Practice Version 2</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="description_text">\t \t \t Take a photo \n Share it with friends</string>
+    <string name="share_photo">SHARE PHOTO</string>
+</resources>
