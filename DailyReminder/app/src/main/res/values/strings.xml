@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daily Reminder</string>
+    <string name="string_morning_off">Morning Call Off</string>
+    <string name="string_morning_on">Morning Call On</string>
+    <string name="string_noon_off">Noon Call Off</string>
+    <string name="string_noon_on">Noon Call On</string>
+    <string name="string_night_off">Night Call Off</string>
+    <string name="string_night_on">Night Call On</string>
+    <string name="string_morning_notification_title">Good Morning</string>
+    <string name="string_morning_notification_text">Stop Sleeping!!!!!</string>
+    <string name="string_noon_notification_title">Oh it\'s noon!</string>
+    <string name="string_noon_notification_text">Go eat something!</string>
+    <string name="string_night_notification_title">Night night~</string>
+    <string name="string_night_notification_text">Have a nice dream!</string>
+</resources>
