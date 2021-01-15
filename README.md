@@ -11,3 +11,6 @@ Check out my Android Apps!
 
 ### [3. Daily Reminder](https://github.com/randyshee/Android-App/tree/main/DailyReminder) <br /> (notification every morning, noon, or night)
 <img src="https://github.com/randyshee/Android-App/blob/main/Image/DailyReminderImage/DailyReminderImage1.png" width="300"> 
+
+### [4. Light Sensor](https://github.com/randyshee/Android-App/tree/main/LightSensor) <br /> (change app theme according to light sensor's data)
+<img src="https://github.com/randyshee/Android-App/blob/main/Image/LightSensorImage/LightSensorImage1.png" width="300"> <img src="https://github.com/randyshee/Android-App/blob/main/Image/LightSensorImage/LightSensorImage2.png" width="300"> 
