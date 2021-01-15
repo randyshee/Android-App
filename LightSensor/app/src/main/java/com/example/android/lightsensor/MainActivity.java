@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private float mCurrentValue;
     private static final String KEY_CURRENT_VALUE = "current_light_value";
 
-    // When the current light sensor's value is lower than 1000 lux,
+    // When the current light sensor's value is lower than 10 lux,
     // change the layout to dark theme
-    private static final int SWITCH_LUX = 1000;
+    private static final int SWITCH_LUX = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
