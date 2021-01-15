@@ -2,7 +2,7 @@
 I made an Application that can change app theme according to light sensor's data!
 
 ## How does this App work?
-When the light sensor's data is larger or equal to 1000 lux, the application will switch to a light theme.
+When the light sensor's data is larger or equal to 10 lux, the application will switch to a light theme.
 When the light sensor's data is smaller than 1000 lux, the application will switch to a dark theme.
 
 
